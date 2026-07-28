@@ -130,9 +130,9 @@ export default function Home() {
         <p className="contact-sub">Open to opportunities · collaborations · conversations</p>
 
         <div className="contact-links">
-          <a href="mailto:your@email.com" className="contact-link">✉ Email</a>
-          <a href="https://www.linkedin.com/" className="contact-link" target="_blank" rel="noreferrer">in LinkedIn</a>
-          <a href="https://github.com/" className="contact-link" target="_blank" rel="noreferrer">⌥ GitHub</a>
+          <a href="mailto:satvik7arora@outlook.com" className="contact-link">✉ Email</a>
+          <a href="https://www.linkedin.com/in/satvik1112/" className="contact-link" target="_blank" rel="noreferrer">in LinkedIn</a>
+          <a href="https://github.com/indominuss11" className="contact-link" target="_blank" rel="noreferrer">⌥ GitHub</a>
           <a href="https://www.behance.net/" className="contact-link" target="_blank" rel="noreferrer">⊞ Behance</a>
           <a href="/resume/Satvik-Arora-Resume.pdf" className="contact-link">↓ Resume</a>
         </div>
