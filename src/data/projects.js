@@ -57,7 +57,7 @@ export const projects = [
       'I understood how MVP product decisions directly affect frontend implementation.',
     ],
   },
-  {
+  /*{
     id: 'entertainment-guild',
     number: '002',
     title: 'Entertainment Guild',
@@ -109,7 +109,7 @@ export const projects = [
       'I learned how admin workflows differ from customer-facing experiences.',
       'I improved my understanding of API-driven product management.',
     ],
-  },
+  },*/
   {
     id: 'planamigo',
     number: '003',
